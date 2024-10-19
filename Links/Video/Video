@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Links</title>
+     <link rel="shortcut icon" href="./ca21a949-c668-4635-0917-d5766d7e34c7.jpeg" type="image/x-icon">
+</head>
+<body>
+  <h1>Links</h1> 
+     <h1><a href="https://github.com/FahimoWD/"target="_blank">Github</a></h1>
+     <br>
+
+     <video width="320" height="240" autoplay>
+          <source src="movie.mp4" type="video/mp4">
+          <source src="movie.ogg" type="video/ogg">
+        Your browser does not support the video tag.
+        </video> 
+
+     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgwRzJgdue_483OI8knLbHhB8IKNWT4hFK6A&s" alt="Naruto">
+         
+     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_VR8ynNImouCvPhw50_l25llCRdIJpkpClQ&s" alt="   Dark nes">
+
+     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbSqlz-K-jk0UuR8lJw_wwA-wIRt2i09W6xQ&s" alt="cool">
+
+     <img src="https://rukminim2.flixcart.com/image/850/1000/kvlaaa80/poster/b/z/b/medium-anime-boy-aesthetic-aesthetic-anime-aesthetic-anime-boy-original-imag8gayqv2dfv9g.jpeg?q=90&crop=false" alt="boy">
+     <h1>Table</h1>
+     <ul>
+          <li><a href="https://github.com/FahimoWD/"target="_blank">Github</a></li>
+          <li><a href="https://Facebook.com/Fahim Ahmed/"target="_blank">Facebook</a></li>
+          <li>Human</li>
+     </ul>
+
+
+     <!-- Table Start -->
+     <table>
+          <tr>
+               <th>Name</th>
+               <th>Phone Number</th>
+               <th>Age</th>
+          </tr>
+
+          <tr>
+               <td>Fahim</td>
+               <td>01711343426</td>
+               <td>17</td>
+          </tr>
+
+          <tr>
+               <td>Karim</td>
+               <td>019------</td>
+               <td>20</td>
+          </tr>
+     </table>
+     <!-- Table End -->
+     <p style="border: 1px solid rgba(255, 0, 0, 0.712);">This is my fast prgentation ..... </p>
+
+     <video width="420" height="300" controls> <source src="movie.mp4"type="video/mp4">  <source src="movi.ogg" type="video/ogg"> bear </video>
+
+     <video width="420" height="300" controls> <source src="84574-586228759_large.mp4"type="video/mp4">  <source src="movi.ogg" type="video/ogg"> bear </video>
+
+
+
+
+     <div style="height: 500px"></div>
+     
+</body>
+</html>
