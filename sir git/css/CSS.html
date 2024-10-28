@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>CSS Class One</title>
+
+		<!-- Internal Styling Start -->
+		<style>
+			#learn {
+				/* background-color: #2fd79a; */
+				background-image: linear-gradient(
+					to right,
+					rgba(207, 114, 114, 0.751),
+					rgba(255, 0, 0, 1)
+				);
+				height: 40px;
+				transition-duration: 1000ms;
+				transition-property: all;
+				overflow: hidden;
+			}
+
+			#another {
+				background-color: aquamarine;
+				transition-duration: 1000ms;
+				transition-property: all;
+				text-transform: capitalize;
+			}
+
+			#another:hover {
+				background-color: #b4d6cb;
+				color: black;
+				padding-right: 70px;
+			}
+
+			button {
+				border: none;
+				color: white;
+				font-size: 20px;
+				font-weight: 700;
+				border-radius: 5px;
+				padding: 8px 25px;
+			}
+			#learn:hover {
+				/* background-color: #011a11; */
+				/* margin: 80px; */
+				background-image: linear-gradient(
+					to right,
+					rgba(255, 0, 0, 1),
+					rgba(207, 114, 114, 0.751)
+				);
+				overflow: auto;
+				height: 200px;
+			}
+		</style>
+		<!-- Internal Styling End -->
+	</head>
+	<body>
+		<h1>CSS Class One</h1>
+		<button id="learn">
+			Start Learning CSS Now >>
+			<p>
+				Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat
+				quia rem, at laborum temporibus molestiae obcaecati soluta iste,
+				beatae voluptates doloremque, nihil similique? Voluptate iste
+				necessitatibus eveniet. Molestias, quisquam autem blanditiis,
+				qui aspernatur tenetur assumenda inventore quidem optio
+				laudantium unde fugiat aliquid possimus cupiditate dignissimos.
+				Nulla maxime dignissimos incidunt nisi!
+			</p>
+		</button>
+		<button id="another">Another Button</button>
+	</body>
+</html>
